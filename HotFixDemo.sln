@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotFixDemo", "HotFixDemo\HotFixDemo.csproj", "{58EE1641-6A21-4C1E-88CE-678CFDF3F4E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\..\SelfWork\huqiang.UnityUI\Assembly-CSharp.csproj", "{18E94283-3250-79DE-5FE1-82E5E455A53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EE1641-6A21-4C1E-88CE-678CFDF3F4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EE1641-6A21-4C1E-88CE-678CFDF3F4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EE1641-6A21-4C1E-88CE-678CFDF3F4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EE1641-6A21-4C1E-88CE-678CFDF3F4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E94283-3250-79DE-5FE1-82E5E455A53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E94283-3250-79DE-5FE1-82E5E455A53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E94283-3250-79DE-5FE1-82E5E455A53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E94283-3250-79DE-5FE1-82E5E455A53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE9136D-414B-4F86-ADD1-055ED31ED795}
+	EndGlobalSection
+EndGlobal
