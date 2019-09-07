@@ -6,7 +6,7 @@ public class Main
 {
     public void Start()
     {
-        HotFix.UIPage.Root = huqiang.UIPage.Root;
+        HotFix.UIPage.Root = UIPage.Root;
         HotFix.UIPage.LoadPage<TestPageH>();
     }
     public void Show(object dat)

@@ -182,8 +182,8 @@
     },
     "Assembly-CSharp/1.0.0": {
       "type": "project",
-      "path": "../../../SelfWork/huqiang.UnityUI/Assembly-CSharp.csproj",
-      "msbuildProject": "../../../SelfWork/huqiang.UnityUI/Assembly-CSharp.csproj"
+      "path": "../../huqiang.UnityUI/Assembly-CSharp.csproj",
+      "msbuildProject": "../../huqiang.UnityUI/Assembly-CSharp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Work\\HotFixDemo\\HotFixDemo\\HotFixDemo.csproj",
+      "projectUniqueName": "F:\\SelfWork\\HotFixDemo\\HotFixDemo\\HotFixDemo.csproj",
       "projectName": "HotFixDemo",
-      "projectPath": "F:\\Work\\HotFixDemo\\HotFixDemo\\HotFixDemo.csproj",
+      "projectPath": "F:\\SelfWork\\HotFixDemo\\HotFixDemo\\HotFixDemo.csproj",
       "packagesPath": "C:\\Users\\HuQiang\\.nuget\\packages\\",
-      "outputPath": "F:\\Work\\HotFixDemo\\HotFixDemo\\obj\\",
+      "outputPath": "F:\\SelfWork\\HotFixDemo\\HotFixDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
